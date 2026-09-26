@@ -1,4 +1,5 @@
 // clang-format off
+// https://github.com/joe-nk/atc-template/
 #pragma GCC optimize("O3,unroll-loops")
 #pragma GCC target("avx2,popcnt")
 #include <atcoder/all>
