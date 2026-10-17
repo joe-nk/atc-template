@@ -1,5 +1,8 @@
 // clang-format off
 // https://github.com/joe-nk/atc-template/
+// THIS CODE IS RELEASED UNDER THE MIT LICENCE, EXCLUDING QUOTED PORTIONS.
+// https://opensource.org/license/mit
+// 2026 JOE_NK_ / joe-nk / ヨセフ
 #pragma GCC optimize("O3,unroll-loops")
 #pragma GCC target("avx2,popcnt")
 #include <atcoder/all>
